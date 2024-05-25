@@ -1,0 +1,24 @@
+body{
+     background-color: black;
+}
+
+.bolinha{
+    font-size: 50px;
+    color: rgb(75, 189, 31);
+}
+.sobre-mim{
+    color: white;
+    border: 3px solid black;
+}
+
+.voltar{
+    color: gray;
+    width: 100px;
+    height: 100px;
+    border: 5px solid rgb(255, 255, 255);
+    border-radius: 20px;
+    background-size: 95px;
+    background-image: url(/imgs/plano-b-verde.jpg);
+    color: white;
+}
+
